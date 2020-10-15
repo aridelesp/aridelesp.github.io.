@@ -30,6 +30,6 @@ fill(210, 115, 255);
   ellipse(220,190,10,20);
   //Boca
   arc(200, 210, 50, 50, 0, HALF_PI+HALF_PI);
-  noStroke
+ 
   
 }
